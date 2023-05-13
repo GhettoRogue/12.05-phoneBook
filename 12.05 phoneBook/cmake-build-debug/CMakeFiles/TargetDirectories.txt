@@ -1,0 +1,3 @@
+C:/Users/schoo/Desktop/12.05 phoneBook/cmake-build-debug/CMakeFiles/untitled18.dir
+C:/Users/schoo/Desktop/12.05 phoneBook/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/schoo/Desktop/12.05 phoneBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
